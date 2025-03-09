@@ -23,7 +23,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("a4.Main")
+    mainClass.set("a4.Infix")
 }
 
 tasks.named<Test>("test") {
